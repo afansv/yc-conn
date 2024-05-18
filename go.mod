@@ -1,4 +1,4 @@
-module yc-conn
+module ycconn
 
 go 1.22.0
 
