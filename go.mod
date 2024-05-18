@@ -1,4 +1,4 @@
-module ycconn
+module github.com/afansv/yc-conn
 
 go 1.22.0
 

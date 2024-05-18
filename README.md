@@ -7,7 +7,7 @@ it's not listed in [endpoints](https://yandex.cloud/ru/docs/api-design-guide/con
 
 ## Why?
 Some Yandex.Cloud APIs are not listed in [endpoints](https://yandex.cloud/ru/docs/api-design-guide/concepts/endpoints) for some reason. 
-That's why we can't just patch [yc-go-sdk](github.com/yandex-cloud/go-sdk) to add new services support
+That's why we can't just patch [yc-go-sdk](https://github.com/yandex-cloud/go-sdk) to add new services support
 
 ## Installation
 
