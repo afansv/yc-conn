@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/afansv/yc-conn.svg)](https://pkg.go.dev/github.com/afansv/yc-conn)
 
-Yandex.Cloud Go SDK wrapper for getting GRPC client connection with original SDK auth to use with any YC API (even if
+Yandex.Cloud Go SDK wrapper for getting gRPC client connection with original SDK auth to use with any YC API (even if
 it's not listed in [endpoints](https://yandex.cloud/ru/docs/api-design-guide/concepts/endpoints))
 
 ## Why?
